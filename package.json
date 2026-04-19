@@ -1,7 +1,7 @@
 {
   "name": "mj-pro-bot",
   "version": "1.0.0",
-  "description": "Luxury WhatsApp Bot",
+  "description": "VIP Luxury Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
