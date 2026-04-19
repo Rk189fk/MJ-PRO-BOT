@@ -1,0 +1,16 @@
+{
+  "name": "mj-pro-bot",
+  "version": "1.0.0",
+  "description": "Luxury WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.19.0",
+    "moment-timezone": "^0.5.45",
+    "fs-extra": "^11.2.0"
+  }
+}
