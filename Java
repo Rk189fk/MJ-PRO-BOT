@@ -1,5 +1,0 @@
-whatsapp-MJ-PRO-BOT
-  index.js
-  package.json
-  .env.example
-  README.md
