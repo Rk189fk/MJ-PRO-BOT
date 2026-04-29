@@ -1,0 +1,18 @@
+{
+  "name": "mj-pro-bot",
+  "version": "1.0.0",
+  "description": "The Next Generation WhatsApp Bot by Sanjoy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.14.1",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.4.0",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "g-i-s": "^2.1.6"
+  }
+}
