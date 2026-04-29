@@ -125,6 +125,11 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# MJ-PRO-BOT Security
+auth_info_baileys/
+config.env
+.env
+
 # yarn v3
 .pnp.*
 .yarn/*
