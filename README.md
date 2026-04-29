@@ -46,7 +46,11 @@ Connect your WhatsApp securely using the official MJ-PRO-BOT portals.
 ---
 
 ## 🛠️ MJ-PRO-BOT FEATURES
-
+- 👀 **Auto-Status Seen:** Automatically views all WhatsApp statuses.
+- 🔋 **Auto-Bio:** Live time update on WhatsApp Bio.
+- 🎭 **Auto-Reaction:** Reacts to every message with premium emojis.
+- ⚡ **Turbo Speed:** Optimized for low-latency response.
+- 
 - 🤖 **Advanced AI Chat:** Powered by ChatGPT & Gemini.
 - 🔄 **Anti-Delete:** Never miss a deleted message.
 - 🎵 **Downloader:** Download from FB, IG, YT, and TikTok.
